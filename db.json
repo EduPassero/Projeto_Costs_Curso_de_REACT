@@ -78,11 +78,11 @@
       "id": 7
     },
     {
-      "name": "Comprar Satélite",
-      "budget": "20",
+      "name": "\"Conseguir\" satélite",
+      "budget": "444",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
